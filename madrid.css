@@ -1,0 +1,112 @@
+body{
+	background-image: url("madridbg.jfif") ;
+	background-color: black;
+	
+	}
+audio{
+	visibility: hidden;
+}
+header{
+	margin-top: 10px;
+	margin-bottom: 10px;
+
+	border: solid 5px;
+	border-color: white;
+	background-image: url("football.jpg") ;
+}
+header h1{
+	color: #ffde09;
+	text-align: center;
+	font-weight: bold;
+	font-style: italic;
+	font-size: 300%;
+	text-decoration: underline;
+}
+span img{
+	transform: translate(0px);
+	height: 100px;
+    width: 100px;
+    display: inline-block;
+    margin-right: 140px;
+}
+footer{
+	border: solid 5px;
+	border-color: white;
+	padding: 0px;
+	color: white;
+	transform: translate(0px,400px);
+	background-image: url("footerbackground.png");
+}
+nav{
+	color: white;
+	height: 100px;
+	border: solid 5px;
+	border-color: white;
+	background-image: url("headerbg.jFIF");
+}
+
+footer a{
+	color: lightblue;
+	transform: translate(0px,-40px);
+	margin-bottom: 5px;
+	overflow: auto;
+	float: left;
+
+}
+h6{
+	color: yellow;
+	font-weight: bold;
+	transform: translate(0px,-40px);
+	font-size: 150%;
+	margin-bottom: 5px;
+	}
+footer i{
+	height: 35%;
+	width: 35p%;
+}
+
+
+p{
+	margin-top: 0px;
+	margin-bottom: 0px;
+	transform: translate(0px,-40px);
+}
+div h1{
+	color: yellow;
+	font-weight: bolder;
+	font-size: 300%;
+	text-align: center;
+}
+div p{
+	border: solid 5px;
+	border-color: white;
+	background-color: black;
+	margin-top: 50px;
+	text-align: left;
+	font-weight: bold;
+	font-size: x-large;
+	margin-bottom: 20px;
+	color: #00fff8d6;
+	margin-right: 200px;
+	margin-left: 200px;
+}
+section h1{
+	text-align: center;
+	font-weight: bolder;
+	font-size: 300%;
+	text-align: center;
+	color: yellow;
+}
+section{
+	transform: translate(0px,100px);
+}
+video{
+	height: 700px;
+	width: 700px;
+	transform: translate(420px);
+}
+
+img{
+	transform: translate(510px);
+	width: 500px;
+}
